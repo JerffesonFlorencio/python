@@ -1,7 +1,7 @@
 # LER DADOS DA PLANILHA
 # INSERIR CADA CELULA DE CADA LINHA EM UM CAMPO DO SISITEMA
 # pip install openpyxl pyautogui
-#
+# Site >> https://cadastro-produtos-devaprender.netlify.app/
 
 import openpyxl
 import pyperclip
